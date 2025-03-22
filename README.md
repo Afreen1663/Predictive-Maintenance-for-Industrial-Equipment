@@ -10,9 +10,7 @@ This project applies machine learning algorithms to predict when industrial equi
 - [Dataset](#dataset)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
-- [Setup](#setup)
 - [Results](#results)
-- [License](#license)
 
 ## Overview
 
@@ -39,7 +37,7 @@ Predictive Maintenance uses machine learning algorithms to analyze historical da
 - The dataset used is named `equipment_data.csv`.
 - It contains sensor readings and operational data for multiple pieces of equipment.
 - The dataset was preprocessed using time-based feature extraction.
-
+<img width="671" alt="Image" src="https://github.com/user-attachments/assets/3b9373f4-3bba-4a8e-88dd-08a730e67ec6" />
 
 ## Model Training
 
@@ -76,7 +74,4 @@ Accuracy: 0.509
 ```
 
 The classification report provides detailed performance metrics.
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it as per your requirements.
+<img width="497" alt="Image" src="https://github.com/user-attachments/assets/3f045cd0-85ff-4034-8f63-14e5763b3355" />
